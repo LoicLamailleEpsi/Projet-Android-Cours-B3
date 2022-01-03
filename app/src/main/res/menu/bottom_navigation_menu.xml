@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_texte"
+        android:icon="@drawable/icone_text"
+        android:title="Texte" />
+    <item
+        android:id="@+id/action_image"
+        android:icon="@drawable/icone_image"
+        android:title="Image" />
+</menu>
